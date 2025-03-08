@@ -837,7 +837,7 @@ function getTextureFiles() {
         //'./textures/concrete.jpg',
         // './textures/concrete2.jpg',
         // './textures/concrete3.jpg',
-        './textures/2.png',
+        'https://pashakornilov.github.io/px/2.png',
 
         // Add more textures here
     ];
